@@ -253,6 +253,11 @@ SECTOR_STOCKS = {
         "LATENTVIEW","DELHIVERY","NYKAA","ZOMATO","POLICYBZR",
         "EASEMYTRIP","RATEGAIN","MAPMYINDIA","MTAR","SYRMA",
     ],
+    "OilGas": [
+        "RELIANCE",	"BPCL",	"ATGL",	"HINDPETRO", "IOC",	"GAIL",	"ONGC",	"OIL",	
+        "CHENNPETRO",	"AEGISLOG",	"PETRONET",	"IGL",	"MGL",	"CASTROLIND",	
+        "AEGISVOPAK",
+    ]
 }
 
 SECTOR_ALIASES = {
@@ -269,6 +274,7 @@ SECTOR_ALIASES = {
     "INFRASTRUCTURE": "INFRA",
     "DEFENSE": "DEFENCE",
     "FINANCIAL SERVICES": "FINANCE", "NBFC": "FINANCE",
+    "Oil & GAS" : "OilGas"
 }
 
 def resolve_sector(name: str):
