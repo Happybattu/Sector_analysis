@@ -116,6 +116,7 @@ _NSE_INDEX_MAP = {
     "CONSUMPTION": "NIFTY INDIA CONSUMPTION",
     "MIDCAP":      "NIFTY MIDCAP 100",
     "TEXTILE":     None,
+    "Oil&Gas":    "Nifty Oil & Gas"
 }
 
 _NSE_HEADERS = {
