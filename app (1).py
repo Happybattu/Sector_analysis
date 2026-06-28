@@ -116,7 +116,7 @@ _NSE_INDEX_MAP = {
     "CONSUMPTION": "NIFTY INDIA CONSUMPTION",
     "MIDCAP":      "NIFTY MIDCAP 100",
     "TEXTILE":     None,
-    "Oil&Gas":     "NIFTY OIL & GAS",
+    "Oil&Gas":     "NIFTY OIL AND GAS",
 }
 
 _NSE_HEADERS = {
@@ -327,7 +327,6 @@ SECTOR_ALIASES = {
     "INFRASTRUCTURE": "INFRA",
     "DEFENSE": "DEFENCE",
     "FINANCIAL SERVICES": "FINANCE", "NBFC": "FINANCE",
-    "Oil & GAS" : "OilGas",
 }
 
 def resolve_sector(name: str):
