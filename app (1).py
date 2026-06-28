@@ -162,9 +162,9 @@ def fetch_nse_live_stocks(sector_key: str) -> list | None:
 # ─────────────────────────────────────────────────────────────────────────────
 SECTOR_STOCKS = {
     "IT": [
-        "TCS","INFY","WIPRO","HCLTECH","TECHM","LTIM","MPHASIS","PERSISTENT",
-        "COFORGE","NIIT","KPITTECH","ZENSARTECH","TATAELXSI","MASTEK",
-        "HEXAWARE","NEWGEN","CYIENT","BIRLASOFT","ECLERX","OFSS", "HEXT", "KPITTECH","FRACTAL","IDREAM","ZENSARTECH","CYIENT","BSOFT","E2E","SONATSOFTW","TANLA","NEWGEN",
+        "TCS","INFY","WIPRO","HCLTECH","TECHM","LTM.NS","MPHASIS","PERSISTENT",
+        "COFORGE","NIITLTD.NS","KPITTECH","ZENSARTECH","TATAELXSI","MASTEK",
+        "HEXT.NS","NEWGEN","CYIENT","BSOFT.NS","ECLERX","OFSS", "HEXT", "KPITTECH","FRACTAL","IDREAM","ZENSARTECH","CYIENT","BSOFT","E2E","SONATSOFTW","TANLA","NEWGEN",
         "ASMTEC","HAPPSTMNDS","AURIONPRO",
     ],
     "BANK": [
