@@ -306,7 +306,7 @@ SECTOR_STOCKS = {
         "CHENNPETRO",	"AEGISLOG",	"PETRONET",	"IGL",	"MGL",	"CASTROLIND",
         "AEGISVOPAK"
     ],
-    "Oil & Gas": [
+    "OIL AND GAS": [
         "RELIANCE",	"BPCL",	"ATGL",	"HINDPETRO", "IOC",	"GAIL",	"ONGC",	"OIL",	
         "CHENNPETRO",	"AEGISLOG",	"PETRONET",	"IGL",	"MGL",	"CASTROLIND",	
         "AEGISVOPAK",
